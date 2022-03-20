@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @malczan
-- 👀 I’m interested in ios development
-- 🌱 I’m currently learning SWIFT/SWIFTUI
+- Hi, I’m Jakub or simply - @malczan
+-I’m interested in ios development
+- I’m currently learning SWIFT/SWIFTUI
 
 
 <!---
