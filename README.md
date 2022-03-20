@@ -1,5 +1,5 @@
 - Hi, I’m Jakub or simply - @malczan
--I’m interested in ios development
+- I’m interested in ios development
 - I’m currently learning SWIFT/SWIFTUI
 
 
