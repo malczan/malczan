@@ -1,7 +1,17 @@
-* Hi, I’m Jakub or simply - @malczan
-* I’m interested in ios development
-* I’m currently learning SWIFT/SWIFTUI
-* Check some of my projects!
+# Hi, I’m Jakub or simply - @malczan
+I’m interested in ios development.
+
+## Skills 
+
+### Working with
+
+<a> <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/swift.svg" /> <a/>
+<a> <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/xcode.svg" /> <a/>
+
+### I want to learn
+
+<a> <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/uikit.svg" /> <a/>
+<a> <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/reactivex.svg" /> <a/>
 
 
 <!---
