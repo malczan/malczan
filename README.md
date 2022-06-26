@@ -1,5 +1,5 @@
 # Hi, I’m Jakub or simply - @malczan
-I’m interested in ios development. I already work with Swift&SwitUI, at this point i'm learing UIKit and RxSwift also.
+I’m interested in ios development. I already work with Swift&SwitUI, at this point i'm learning UIKit and RxSwift also.
 
 ## Skills 
 
